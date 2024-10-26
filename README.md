@@ -95,7 +95,7 @@ I am a person with the ability to learn quickly and adapt to new challenges. I c
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es](https://www.linkedin.com/in/v%C3%ADctor-manuel-casado-bayon-54322527b/">
+<a href= "https://www.linkedin.com/in/v%C3%ADctor-manuel-casado-bayon-54322527b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
