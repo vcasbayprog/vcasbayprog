@@ -41,7 +41,7 @@ I am a person with the ability to learn quickly and adapt to new challenges. I c
   
   
  
-</span
+</span>
 
 
 
