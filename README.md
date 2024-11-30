@@ -8,6 +8,7 @@ I am a person with the ability to learn quickly and adapt to new challenges. I c
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
+  - React
 - 📫 Reach out to me at: <a href="vcasbayprog@gmail.com">vcasbayprog@gmail.com</a>
 
 ## My Skills Include
